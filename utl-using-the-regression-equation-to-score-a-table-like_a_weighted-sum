@@ -4,7 +4,7 @@
 
        1. sas proc score
        2. sas datastep
-       3. sas scl
+       3. sas SQL
        4  R rquation (I gave up on using matrix algebra due to both datatypes and data structures).
        5. R SQL
        6. Python equation
