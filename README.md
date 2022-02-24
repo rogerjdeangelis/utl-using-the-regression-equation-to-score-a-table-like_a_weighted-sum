@@ -13,6 +13,10 @@ Using the regression equation to score a table
            7. Python SQL (I gave uo on matrix algebra due to both datatypes and data structures).
 
       Macros on end
+      
+      github
+      https://tinyurl.com/yrm2jsrk                                                                             
+      https://github.com/rogerjdeangelis/utl-using-the-regression-equation-to-score-a-table-like_a_weighted-sum
 
       I really think SQL with minor integration with with R and Python is the best solution outside SAS.
       Minimize R and Python in favor of SQL. However use the packages.
