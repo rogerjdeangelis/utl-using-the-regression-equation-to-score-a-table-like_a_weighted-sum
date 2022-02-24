@@ -6,7 +6,7 @@ Using the regression equation to score a table
 
            1. sas proc score
            2. sas datastep
-           3. sas scl
+           3. sas sql
            4  R rquation (I gave up on using matrix algebra due to both datatypes and data structures).
            5. R SQL
            6. Python equation
